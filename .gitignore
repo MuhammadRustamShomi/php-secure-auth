@@ -1,0 +1,9 @@
+# Real database passwords - never upload!
+config.php
+
+# Logs and OS / editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
