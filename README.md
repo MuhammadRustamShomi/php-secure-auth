@@ -3,7 +3,7 @@
 A complete, secure login system in plain PHP + MySQL: **register, login, protected dashboard, logout**.
 Every security check is explained with comments inside the code, so it doubles as learning material.
 
-🌐 **Live demo:** _add your InfinityFree link here_
+🌐 **Live demo:** (https://rustam-auth.infinityfreeapp.com/login.php)
 > ⚠️ This is a public demo. Please register with a **test email** and a password you don't use anywhere else.
 
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white)
