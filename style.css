@@ -76,5 +76,13 @@ a { color: #4f46e5; }
     font-size: 0.95rem;
 }
 
+.site-footer {
+    margin-top: 16px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #6b7280;
+    line-height: 1.6;
+}
+
 .error { background: #fee2e2; color: #991b1b; }
 .flash { background: #dcfce7; color: #166534; }
